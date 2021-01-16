@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm  Liberxue</h1>
+<h3 align="center">C#/C++/Rust/Go/Java/Flutter/Javascript 💤👻But code/technology/It’s just a tool</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liberxue&layout=compact&hide=html" alt="Liberxue" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Liberxue&show_icons=true" alt="Liberxue" /></p>
+
