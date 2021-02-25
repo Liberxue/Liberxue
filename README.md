@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm  Liberxue</h1>
 <h3 align="center">C#/C++/Rust/Go/Java/Flutter/Javascript 💤👻But code/technology/It’s just a tool</h3>
 
-<p><img width="350" height="320" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liberxue&layout=compact&hide=html" alt="Liberxue" /></p>
+<p><img width="350" height="320" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Liberxue&hide_border=true" alt="Liberxue" /></p>
 
 <p>&nbsp;<img width="350" height="320"  align="right" src="https://github-readme-stats.vercel.app/api/?username=Liberxue&count_private=true&show_icons=true" alt="Liberxue" /></p>
