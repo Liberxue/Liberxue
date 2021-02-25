@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 <p><img width="350" height="320" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liberxue&layout=compact&hide=html" alt="Liberxue" /></p>
 
-<p>&nbsp;<img width="350" height="320"  align="right" src="https://github-readme-stats.vercel.app/api?username=Liberxue&show_icons=true" alt="Liberxue" /></p>
-
+<p>&nbsp;<img width="350" height="320"  align="right" src="https://github-readme-stats.vercel.app/api/?username=Liberxue&count_private=true&show_icons=true" alt="Liberxue" /></p>
