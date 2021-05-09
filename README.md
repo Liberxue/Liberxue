@@ -1,23 +1,10 @@
-### Hi 👋
+### Hi
 
-<!--
-**Liberxue/Liberxue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3 align="center">C#/C++/Rust/Go/Java/Flutter/Javascript 💤👻But code/technology/It’s just a tool</h3>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm  Liberxue</h1>
-<h3 align="center">C#/C++/Rust/Go/Java/Flutter/Javascript 💤👻But code/technology/It’s just a tool</h3>
-
-<p><img width="350" height="320" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Liberxue&hide_border=true" alt="Liberxue" /></p>
-
-<p>&nbsp;<img width="350" height="320"  align="right" src="https://github-readme-stats.vercel.app/api/?username=Liberxue&count_private=true&show_icons=true" alt="Liberxue" /></p>
+<div>
+  <a href="https://www.liberxue.com"><img width="350" height="320" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Liberxue&hide_border=true&show_icons=true&hide=contribs&locale=en&title_color=fff&text_color=fff&icon_color=fff&bg_color=fc5c7d,6a82fb,05dfd7&include_all_commits=true" alt="Liberxue" /></a>
+  <a href="https://www.liberxue.com"><img width="415" height="320"  align="right" src="https://github-readme-stats.vercel.app/api?username=Liberxue&hide_border=true&show_icons=true&hide=contribs&locale=en&title_color=fff&text_color=fff&icon_color=fff&bg_color=fc5c7d,6a82fb,05dfd7&include_all_commits=true" alt="Liberxue"/></a>
+</div>
