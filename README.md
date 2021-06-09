@@ -2,6 +2,10 @@
 
 <div align="center">
   <h3 align="center">C#/C++/Rust/Go/Java/Flutter/Javascript 💤👻But code/technology/It’s just a tool</h3>
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Liberxue/count.svg" />
+  </p>
 </div>
 
 <div>
