@@ -1,9 +1,9 @@
 ### Hi 👏
 
 <div>
-  <h3 align="center">C#/C++/Rust/Go/Java/Flutter/Javascript&emsp;💤👻 &emsp;But code/technology;  It’s just a tools <br> 
+  <h3 align="center">C#/C++/Rust/Go/Java/Flutter/Javascript&emsp;💤👻 &emsp;   <br>  <br>  But code/technology;  It’s just a tools <br> 
     <br>
-    Currently focusing on Machine Learning. <br>
+    Currently focusing on ML (Machine Learning). <br>
     <br>
     This's Page Visitor Count<br>
     <br>
