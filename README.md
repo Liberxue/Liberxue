@@ -5,8 +5,6 @@
     <br>
     Currently focusing on ML (Machine Learning). <br>
     <br>
-    This's Page Visitor Count<br>
-    <br>
   <img src="https://profile-counter.glitch.me/Liberxue/count.svg" />
 </h3>
   
