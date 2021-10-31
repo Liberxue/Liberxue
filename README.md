@@ -1,6 +1,6 @@
 
 <div>
-  <h3 align="center">C#/C++/Rust/Go/Java/Flutter/Javascript&emsp;💤👻 &emsp;   <br>  <br>  But code/technology;  It’s just a tools <br> 
+  <h3 align="center">&emsp;💤👻 &emsp;HPC <br> 
     <br>
     Currently focusing on ML (Machine Learning). <br>
 </h3>
