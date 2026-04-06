@@ -1,7 +1,8 @@
 
 ### Hey 👋, I'm Liber
 
->> Currently focusing on ML #Cuda #FPGA #HPC
+>> AWS Solutions Architect  && Quant Strategy Engineer
+Currently focusing on ML #HPC 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liberxue&theme=github&hide_border=true&show_icons=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liberxue&theme=github&hide_border=true&show_icons=true)
